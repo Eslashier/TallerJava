@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="25 Stream" />
+        <module name="26 Optional" />
+        <module name="30 Date API" />
+        <module name="29 Anotaciones de repeticion" />
+        <module name="22 Interfaces Funcionales" />
+        <module name="23 Referencias de metodos" />
+        <module name="lambda" />
+        <module name="21 Default Methods" />
+        <module name="28 Map" />
+        <module name="27 Stream paralelo" />
+        <module name="Taller JAVA" />
+        <module name="31 Funciones de alto orden" />
+        <module name="24 ForEach RemoveIf Sort" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11" />
+  </component>
+</project>
