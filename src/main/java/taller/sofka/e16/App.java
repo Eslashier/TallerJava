@@ -23,7 +23,7 @@ public class App {
 		double altura = Double.parseDouble(buffer.readLine());
 
 		Persona persona1 = new Persona(nombre,edad,genero,peso,altura);
-		Persona persona2 = new Persona("Isabela Castro", 40, "H");
+		Persona persona2 = new Persona("Isabela Castro", 40, "M");
 		Persona persona3 = new Persona();
 
 		persona3.asignarNombre("Javier Batista");

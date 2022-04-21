@@ -30,6 +30,7 @@ public class Persona {
         generaDNI dnigenerado = new generaDNI();
         dni = dnigenerado.generarDNI();
         this.genero = genero.charAt(0);
+        comprobarGenero();
         peso = 0;
         altura = 0;
     }
@@ -40,6 +41,7 @@ public class Persona {
         generaDNI dnigenerado = new generaDNI();
         dni = dnigenerado.generarDNI();
         this.genero = genero.charAt(0);
+        comprobarGenero();
         this.peso = peso;
         this.altura = altura;
     }
