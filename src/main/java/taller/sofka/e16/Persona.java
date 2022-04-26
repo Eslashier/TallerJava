@@ -46,19 +46,20 @@ public class Persona {
         this.altura = altura;
     }
 
-    public String calcularIMC(){
+    public Integer calcularIMC(){
         double imc = peso/Math.pow(altura,2);
         if(20>imc && imc>0){
-            int resultado = -1;
-            return "Su peso esta debajo del ideal";
+            final int resultado = -1;
+            return resultado;
         }else if (25>=imc && imc>=20){
-            int resultado = 0;
-            return "Su peso es ideal";
+            final int resultado = 0;
+            return resultado;
         }else if (imc>25) {
-            int resultado = 1;
-            return "Su peso esta por encima del ideal, sobrepeso";
+            final int resultado = 1;
+            return resultado;
         }
-        return "Error, por favor ingrese peso en kilogramos y altura en metros";
+        final int resultado = 0;
+        return resultado;
     }
 
 
