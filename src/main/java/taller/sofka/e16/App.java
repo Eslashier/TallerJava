@@ -34,15 +34,15 @@ public class App {
 
 		System.out.println(persona1.esMayorDeEdad());
 		System.out.println("Calculo de IMC: "+persona1.calcularIMC());
-		System.out.println(persona1.toString());
+		System.out.println(persona1);
 
 		System.out.println(persona2.esMayorDeEdad());
 		System.out.println("Calculo de IMC: "+persona2.calcularIMC());
-		System.out.println(persona2.toString());
+		System.out.println(persona2);
 
 		System.out.println(persona3.esMayorDeEdad());
 		System.out.println("Calculo de IMC: "+persona3.calcularIMC());
-		System.out.println(persona3.toString());
+		System.out.println(persona3);
 
 
 	}

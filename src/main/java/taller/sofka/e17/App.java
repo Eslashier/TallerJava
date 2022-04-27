@@ -12,7 +12,7 @@ public class App {
 		int precioTelevision = 0;
 		int precioElectrodomesticos = 0;
 
-		Electrodomesticos electrodomesticos[] = new Electrodomesticos[10];
+		Electrodomesticos[] electrodomesticos = new Electrodomesticos[10];
 		electrodomesticos[0] = new Electrodomesticos();
 		electrodomesticos[1] = new Electrodomesticos(200,20);
 		electrodomesticos[2] = new Electrodomesticos(150,"BlAnco",'A',90);

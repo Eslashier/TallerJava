@@ -59,3 +59,17 @@ W
 'src/main/java/taller/sofka/e12/App.java,a\9\a981361045fcdd0cb88a01cdf5375e4ce94ffbb1
 V
 &src/main/java/taller/sofka/e7/App.java,7\6\76a79ab43eabe5f4b1af4f659c462294171ecd71
+a
+1src/main/java/taller/sofka/e7/compararNumero.java,4\e\4e7524ba30c93e42dfe07df55abcb7d551addfea
+a
+1src/main/java/taller/sofka/e16/DNI/generaDNI.java,3\8\3896dfb26d11763121d9529fbaaa0e7b7627c3a5
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+p
+@src/main/java/taller/sofka/e17/Electrodomesticos/Television.java,6\e\6e15aa37407b3dce48776e500d8ea5c7f2c7a1ec
+w
+Gsrc/main/java/taller/sofka/e17/Electrodomesticos/Electrodomesticos.java,8\a\8a9d658614e3444320cd200c8a67c7ffa0caf538
+n
+>src/main/java/taller/sofka/e17/Electrodomesticos/Lavadora.java,2\e\2e6f2f97ce545d55e1fe1b5cd31a4c2ad2e66cfa
+[
++src/main/java/taller/sofka/e16/Persona.java,b\f\bf943d69c02807017eda8fcfeb13f92bbbd47709
